@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://tofu.atabook.org">新BOOK</a>
-  .𖥔 
+  ✶
   <a href="https://tofucin.straw.page">STRAW</a>
 </p>
 
