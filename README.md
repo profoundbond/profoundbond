@@ -13,6 +13,6 @@
 
 ###
 
-<h6 align="center">art: @ynnu.64</h6>
+<h6 align="center">artist: @ynnu.64</h6>
 
 ###
